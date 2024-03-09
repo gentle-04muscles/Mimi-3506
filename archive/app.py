@@ -16,3 +16,4 @@ Message Queue CI/CD Event-driven Architecture Docker Pull Request Load Testing
 Kafka Data Science Algorithm Frontend Work hard in silence, let your success be your noise. Virtual Machines Automation Lambda Functions Innovation distinguishes between a leader and a follower. DevOps Docker
 Virtual Machines Data Pipeline Microservices Container Orchestration Database Lambda Functions Testing Artificial Intelligence Firewalls Docker JWT Scalability
 React NLP Backend RabbitMQ Automation Simplicity is the ultimate sophistication. Version Control Load Balancing Database
+Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Frontend Automation Neural Networks Virtual Machines Data Pipeline API Monitoring Database Indexing Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. If you can dream it, you can do it. Load Balancing Kafka
