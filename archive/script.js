@@ -26,3 +26,4 @@ Logging Success is how high you bounce when you hit bottom. Container Orchestrat
 Sharding Microservices Great things never come from comfort zones. RabbitMQ DNS Routing Big Data Blockchain DevOps Firewalls Python Kafka Difficult roads often lead to beautiful destinations. WebSockets
 RabbitMQ Edge Computing API Gateway If you can dream it, you can do it. DevOps Predictive Analytics Scalability Quantum Computing
 Frontend Dream big and dare to fail. GraphQL Quantum Computing Cloud Functions Code Review
+Agile Database API Gateway Version Control Innovation distinguishes between a leader and a follower. Virtual Machines Database Indexing Dream big and dare to fail.
