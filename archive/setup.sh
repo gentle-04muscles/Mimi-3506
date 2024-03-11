@@ -20,3 +20,4 @@ Monitoring Database Event-driven Architecture WebSockets Docker Great things nev
 Machine Learning Pull Request API To be the best, you must be able to handle the worst. Python JWT Optimization Event-driven Architecture Frontend Containerization Work hard in silence, let your success be your noise. Version Control
 Work hard in silence, let your success be your noise. Neural Networks RabbitMQ To be the best, you must be able to handle the worst. Microservices UX Optimization Predictive Analytics DNS Routing OAuth Docker Security
 Replica Set Frontend Difficult roads often lead to beautiful destinations. Cloud Functions Backend Code Review Database Indexing Sharding Parallel Processing If you can dream it, you can do it. Serverless Load Testing Success doesn’t just find you. You have to go out and get it. Data Pipeline Security
+Distributed Systems IoT NLP API Gateway Cache Invalidation Multi-threading
