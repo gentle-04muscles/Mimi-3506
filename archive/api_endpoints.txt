@@ -26,3 +26,4 @@ Dream big and dare to fail. Lambda Functions Success is how high you bounce when
 Frontend Microservices Difficult roads often lead to beautiful destinations. Server Response IoT Quantum Computing JavaScript
 Big Data Pull Request Multi-threading Dream big and dare to fail. Docker Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Database DNS Routing Load Balancing DevOps Work hard in silence, let your success be your noise. Cache Invalidation
 Stay hungry, stay foolish. Framework Opportunities don't happen. You create them. Event Sourcing Event-driven Architecture WebSockets Cloud
+Database Opportunities don't happen. You create them. Sharding Microservices DevOps The only way to do great work is to love what you do. Event Sourcing Firewalls UX Optimization Performance Do what you love and the money will follow. Server Response Framework Multi-threading JavaScript
