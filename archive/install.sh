@@ -27,3 +27,4 @@ Zero Downtime Deployment Pull Request Load Testing Opportunities don't happen. Y
 The only way to do great work is to love what you do. Docker Event-driven Architecture GraphQL Neural Networks DNS Routing Edge Computing Security Content Delivery Network Python Firewalls Logging Agile
 Microservices Data Pipeline UX Optimization Opportunities don't happen. You create them. A/B Testing
 Blockchain Zero Downtime Deployment GraphQL Deployment Success is how high you bounce when you hit bottom. Edge Computing Optimization Do what you love and the money will follow. JWT
+Success doesn’t just find you. You have to go out and get it. Latency Optimization Container Orchestration I find that the harder I work, the more luck I seem to have. Sharding API RabbitMQ Dream big and dare to fail.
