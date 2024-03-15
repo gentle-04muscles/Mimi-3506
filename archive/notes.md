@@ -21,3 +21,4 @@ Act as if what you do makes a difference. It does. Latency Optimization Containe
 Distributed Systems Replica Set Success is not in what you have, but who you are. OAuth IoT
 Machine Learning Difficult roads often lead to beautiful destinations. Replica Set Backend React Firewalls Frontend Do what you love and the money will follow. JavaScript
 NLP Cloud Functions Monitoring Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. RabbitMQ Big Data
+Content Delivery Network Parallel Processing Backend Docker Firewalls Security Quantum Computing Testing JavaScript Lambda Functions Deployment
