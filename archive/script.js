@@ -25,3 +25,4 @@ Success is how high you bounce when you hit bottom. Content Delivery Network Alg
 Logging Success is how high you bounce when you hit bottom. Container Orchestration Cache Invalidation Data Science Work hard in silence, let your success be your noise. Dream big and dare to fail. Great things never come from comfort zones. JWT Virtual Machines Stay hungry, stay foolish. Latency Optimization
 Sharding Microservices Great things never come from comfort zones. RabbitMQ DNS Routing Big Data Blockchain DevOps Firewalls Python Kafka Difficult roads often lead to beautiful destinations. WebSockets
 RabbitMQ Edge Computing API Gateway If you can dream it, you can do it. DevOps Predictive Analytics Scalability Quantum Computing
+Frontend Dream big and dare to fail. GraphQL Quantum Computing Cloud Functions Code Review
