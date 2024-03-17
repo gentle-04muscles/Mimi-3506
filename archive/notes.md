@@ -20,3 +20,4 @@ Docker Kafka Server Response Simplicity is the ultimate sophistication. Agile Cl
 Act as if what you do makes a difference. It does. Latency Optimization Container Orchestration Happiness is not something ready made. It comes from your own actions. UX Optimization Version Control JavaScript Sharding Serverless Data Pipeline GraphQL
 Distributed Systems Replica Set Success is not in what you have, but who you are. OAuth IoT
 Machine Learning Difficult roads often lead to beautiful destinations. Replica Set Backend React Firewalls Frontend Do what you love and the money will follow. JavaScript
+NLP Cloud Functions Monitoring Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. RabbitMQ Big Data

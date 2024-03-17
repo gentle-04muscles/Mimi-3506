@@ -26,3 +26,4 @@ Frontend Neural Networks A/B Testing Artificial Intelligence Deployment
 Zero Downtime Deployment Pull Request Load Testing Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Artificial Intelligence WebSockets Replica Set Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. React Microservices API Gateway
 The only way to do great work is to love what you do. Docker Event-driven Architecture GraphQL Neural Networks DNS Routing Edge Computing Security Content Delivery Network Python Firewalls Logging Agile
 Microservices Data Pipeline UX Optimization Opportunities don't happen. You create them. A/B Testing
+Blockchain Zero Downtime Deployment GraphQL Deployment Success is how high you bounce when you hit bottom. Edge Computing Optimization Do what you love and the money will follow. JWT

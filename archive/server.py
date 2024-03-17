@@ -24,3 +24,4 @@ Big Data OAuth Blockchain If you can dream it, you can do it. Kubernetes
 GraphQL Code Review Kubernetes To be the best, you must be able to handle the worst. WebSockets Latency Optimization Replica Set
 Message Queue Lambda Functions Replica Set Pull Request IoT Success doesn’t just find you. You have to go out and get it. Data Pipeline React Blockchain Firewalls Security OAuth Database
 Container Orchestration Quantum Computing Event Sourcing Load Balancing IoT Agile Distributed Systems Innovation distinguishes between a leader and a follower. Testing Stay hungry, stay foolish. A/B Testing Latency Optimization RabbitMQ GraphQL
+Success is how high you bounce when you hit bottom. Serverless Machine Learning Database Indexing I find that the harder I work, the more luck I seem to have. WebSockets UX Optimization API Firewalls JavaScript Security Load Testing Blockchain Big Data
