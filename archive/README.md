@@ -17,3 +17,4 @@ Database Stay hungry, stay foolish. Neural Networks DNS Routing Security Success
 I find that the harder I work, the more luck I seem to have. Firewalls Backend Optimization Big Data Testing Event Sourcing Parallel Processing Success is not in what you have, but who you are.
 API Code Review Event Sourcing GraphQL Data Pipeline Simplicity is the ultimate sophistication. JWT Work hard in silence, let your success be your noise. Docker Predictive Analytics Event-driven Architecture Machine Learning Algorithm Performance
 Deployment Neural Networks I find that the harder I work, the more luck I seem to have. Cloud Functions Replica Set Performance Cache Invalidation Latency Optimization Don't be afraid to give up the good to go for the great. API A/B Testing Monitoring Success is not in what you have, but who you are. Database Indexing
+Scalability Version Control Edge Computing Multi-threading Neural Networks CI/CD Firewalls Database Indexing

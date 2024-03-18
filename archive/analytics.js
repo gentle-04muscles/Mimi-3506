@@ -17,3 +17,4 @@ Cloud Version Control Framework Dream big and dare to fail. DNS Routing Blockcha
 UX Optimization Automation Load Testing Message Queue NLP Testing Artificial Intelligence Event Sourcing DNS Routing Blockchain Firewalls Deployment Sharding
 I find that the harder I work, the more luck I seem to have. RabbitMQ Edge Computing Neural Networks Testing DNS Routing Do what you love and the money will follow.
 API Gateway GraphQL Multi-threading Database Indexing IoT Framework Neural Networks Artificial Intelligence Data Science Cloud Content Delivery Network Difficult roads often lead to beautiful destinations. Event Sourcing
+Machine Learning Containerization Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow.
