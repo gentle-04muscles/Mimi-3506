@@ -20,3 +20,4 @@ Machine Learning CI/CD Artificial Intelligence API Gateway GraphQL Microservices
 Docker Testing Predictive Analytics The only way to do great work is to love what you do. Cache Invalidation Do what you love and the money will follow. Edge Computing Success is not in what you have, but who you are.
 Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Deployment Version Control Event Sourcing
 Docker Performance Optimization Event-driven Architecture Multi-threading Algorithm API Gateway API
+Container Orchestration To be the best, you must be able to handle the worst. RabbitMQ JavaScript Docker Cloud Functions
