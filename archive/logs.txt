@@ -24,3 +24,4 @@ GraphQL Database Testing Pull Request Version Control The only way to do great w
 Python Version Control Kafka Act as if what you do makes a difference. It does. Sharding Cache Invalidation Kubernetes Big Data Database Indexing Microservices Security
 Containerization Agile WebSockets Artificial Intelligence Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Big Data
 I find that the harder I work, the more luck I seem to have. NLP Kafka Message Queue Kubernetes Content Delivery Network Lambda Functions To be the best, you must be able to handle the worst. Cache Invalidation Success is how high you bounce when you hit bottom. Cloud Functions JWT
+Database Indexing WebSockets Zero Downtime Deployment Multi-threading JWT Event Sourcing Kubernetes Data Science
