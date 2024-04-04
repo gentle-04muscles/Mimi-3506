@@ -18,3 +18,4 @@ Latency Optimization Automation Event-driven Architecture If you can dream it, y
 The only way to do great work is to love what you do. Code Review Microservices RabbitMQ Success is how high you bounce when you hit bottom. JavaScript
 Machine Learning CI/CD Artificial Intelligence API Gateway GraphQL Microservices Big Data Cache Invalidation
 Docker Testing Predictive Analytics The only way to do great work is to love what you do. Cache Invalidation Do what you love and the money will follow. Edge Computing Success is not in what you have, but who you are.
+Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Deployment Version Control Event Sourcing
