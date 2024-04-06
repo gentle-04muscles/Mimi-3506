@@ -17,3 +17,4 @@ Event Sourcing Cache Invalidation Latency Optimization Server Response Backend S
 OAuth To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Firewalls CI/CD Pull Request
 Machine Learning Edge Computing Kubernetes Artificial Intelligence Simplicity is the ultimate sophistication.
 Docker Kafka Server Response Simplicity is the ultimate sophistication. Agile Cloud Quantum Computing Difficult roads often lead to beautiful destinations.
+Act as if what you do makes a difference. It does. Latency Optimization Container Orchestration Happiness is not something ready made. It comes from your own actions. UX Optimization Version Control JavaScript Sharding Serverless Data Pipeline GraphQL

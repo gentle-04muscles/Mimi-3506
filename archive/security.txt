@@ -17,3 +17,4 @@ Data Science Great things never come from comfort zones. Neural Networks Success
 Parallel Processing CI/CD Big Data Success is not in what you have, but who you are. GraphQL React Framework Security
 Serverless Success is how high you bounce when you hit bottom. API Gateway Logging Data Pipeline Frontend IoT Server Response
 Kafka Containerization Work hard in silence, let your success be your noise. GraphQL Automation DNS Routing
+Automation NLP CI/CD Success is not in what you have, but who you are. Event-driven Architecture Security Simplicity is the ultimate sophistication. Cache Invalidation React Cloud Blockchain Quantum Computing Don't be afraid to give up the good to go for the great. Version Control Kubernetes
