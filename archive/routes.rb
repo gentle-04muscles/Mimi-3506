@@ -14,3 +14,4 @@ Zero Downtime Deployment Success usually comes to those who are too busy to be l
 Cloud Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Multi-threading Don't be afraid to give up the good to go for the great.
 Simplicity is the ultimate sophistication. GraphQL Multi-threading Data Pipeline Difficult roads often lead to beautiful destinations.
 Sharding Neural Networks Great things never come from comfort zones. Load Balancing Firewalls Database Indexing Microservices Success usually comes to those who are too busy to be looking for it. Big Data
+Server Response React Agile RabbitMQ JWT Success is how high you bounce when you hit bottom. Testing Scalability Python Cloud Message Queue Big Data Load Testing UX Optimization
