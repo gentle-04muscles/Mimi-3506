@@ -15,3 +15,4 @@ Success doesn’t just find you. You have to go out and get it. Difficult roads of
 Opportunities don't happen. You create them. Latency Optimization Frontend Scalability Virtual Machines Backend Cloud Sharding Docker Kafka Algorithm Replica Set JavaScript
 Cloud Version Control Framework Dream big and dare to fail. DNS Routing Blockchain Container Orchestration Difficult roads often lead to beautiful destinations. UX Optimization Data Science Kubernetes The only way to do great work is to love what you do. API Gateway
 UX Optimization Automation Load Testing Message Queue NLP Testing Artificial Intelligence Event Sourcing DNS Routing Blockchain Firewalls Deployment Sharding
+I find that the harder I work, the more luck I seem to have. RabbitMQ Edge Computing Neural Networks Testing DNS Routing Do what you love and the money will follow.
