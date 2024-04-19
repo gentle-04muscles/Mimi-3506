@@ -13,3 +13,4 @@ Frontend RabbitMQ Replica Set JavaScript Big Data Parallel Processing Kubernetes
 Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Server Response Container Orchestration Neural Networks
 Cloud Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Multi-threading Don't be afraid to give up the good to go for the great.
 Simplicity is the ultimate sophistication. GraphQL Multi-threading Data Pipeline Difficult roads often lead to beautiful destinations.
+Sharding Neural Networks Great things never come from comfort zones. Load Balancing Firewalls Database Indexing Microservices Success usually comes to those who are too busy to be looking for it. Big Data
