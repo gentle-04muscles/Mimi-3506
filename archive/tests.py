@@ -15,3 +15,4 @@ DNS Routing Zero Downtime Deployment Data Pipeline Latency Optimization Frontend
 Code Review Happiness is not something ready made. It comes from your own actions. Algorithm Backend Innovation distinguishes between a leader and a follower. Cloud Functions
 Content Delivery Network NLP Event Sourcing Performance Docker Dream big and dare to fail. Event-driven Architecture Cloud The only way to do great work is to love what you do. Containerization Lambda Functions Sharding UX Optimization
 JavaScript RabbitMQ Testing Serverless JWT Innovation distinguishes between a leader and a follower. Latency Optimization Success is not in what you have, but who you are. Pull Request API Gateway Artificial Intelligence Performance Predictive Analytics The only way to do great work is to love what you do.
+Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Load Balancing Virtual Machines Distributed Systems
