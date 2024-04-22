@@ -11,3 +11,4 @@ Machine Learning Serverless Sharding Replica Set Cloud Data Pipeline React
 WebSockets JavaScript Data Pipeline A/B Testing Innovation distinguishes between a leader and a follower. API API Gateway Success usually comes to those who are too busy to be looking for it.
 Lambda Functions Machine Learning Success is how high you bounce when you hit bottom. Performance Stay hungry, stay foolish. Sharding Kafka Scalability Server Response UX Optimization
 Content Delivery Network Replica Set Monitoring Backend IoT Dream big and dare to fail. API Virtual Machines Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower.
+Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. JWT Database Neural Networks Load Balancing Kubernetes Lambda Functions Big Data Performance Zero Downtime Deployment Predictive Analytics
