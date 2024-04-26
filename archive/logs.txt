@@ -22,3 +22,4 @@ Happiness is not something ready made. It comes from your own actions. Agile Suc
 Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Database Load Testing Version Control Lambda Functions Performance Work hard in silence, let your success be your noise. Edge Computing
 GraphQL Database Testing Pull Request Version Control The only way to do great work is to love what you do. Performance
 Python Version Control Kafka Act as if what you do makes a difference. It does. Sharding Cache Invalidation Kubernetes Big Data Database Indexing Microservices Security
+Containerization Agile WebSockets Artificial Intelligence Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Big Data
