@@ -15,3 +15,4 @@ React I find that the harder I work, the more luck I seem to have. Kafka Pull Re
 Optimization WebSockets Zero Downtime Deployment OAuth Artificial Intelligence Microservices I find that the harder I work, the more luck I seem to have. Python Load Balancing Code Review Success usually comes to those who are too busy to be looking for it. Security Machine Learning
 Data Science Great things never come from comfort zones. Neural Networks Success usually comes to those who are too busy to be looking for it. Database Indexing Event Sourcing JavaScript Database Load Testing DNS Routing Server Response To be the best, you must be able to handle the worst. Code Review Deployment
 Parallel Processing CI/CD Big Data Success is not in what you have, but who you are. GraphQL React Framework Security
+Serverless Success is how high you bounce when you hit bottom. API Gateway Logging Data Pipeline Frontend IoT Server Response
