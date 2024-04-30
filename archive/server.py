@@ -22,3 +22,4 @@ Blockchain Dream big and dare to fail. Pull Request Event-driven Architecture De
 Zero Downtime Deployment Cache Invalidation Server Response Algorithm Latency Optimization Docker Cloud
 Big Data OAuth Blockchain If you can dream it, you can do it. Kubernetes
 GraphQL Code Review Kubernetes To be the best, you must be able to handle the worst. WebSockets Latency Optimization Replica Set
+Message Queue Lambda Functions Replica Set Pull Request IoT Success doesn’t just find you. You have to go out and get it. Data Pipeline React Blockchain Firewalls Security OAuth Database
