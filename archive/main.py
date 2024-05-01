@@ -17,3 +17,4 @@ Monitoring Agile Great things never come from comfort zones. GraphQL IoT Content
 Lambda Functions Big Data If you can dream it, you can do it. Code Review Blockchain Cache Invalidation DevOps React
 Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Firewalls Opportunities don't happen. You create them. API CI/CD Neural Networks Monitoring Success is how high you bounce when you hit bottom. DevOps Innovation distinguishes between a leader and a follower. Cache Invalidation Lambda Functions
 Don't be afraid to give up the good to go for the great. Kubernetes Server Response React Difficult roads often lead to beautiful destinations. Cloud Functions Security OAuth JWT
+Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Backend Lambda Functions Big Data Microservices Logging Deployment Kubernetes JavaScript
