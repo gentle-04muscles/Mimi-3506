@@ -12,3 +12,4 @@ Event-driven Architecture Kubernetes A/B Testing Machine Learning Blockchain Do 
 Frontend RabbitMQ Replica Set JavaScript Big Data Parallel Processing Kubernetes Opportunities don't happen. You create them. Security Artificial Intelligence
 Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Server Response Container Orchestration Neural Networks
 Cloud Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Multi-threading Don't be afraid to give up the good to go for the great.
+Simplicity is the ultimate sophistication. GraphQL Multi-threading Data Pipeline Difficult roads often lead to beautiful destinations.
