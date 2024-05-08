@@ -13,3 +13,4 @@ CI/CD IoT Success is how high you bounce when you hit bottom. JWT Simplicity is 
 Neural Networks Happiness is not something ready made. It comes from your own actions. Data Science Logging Machine Learning Success doesn’t just find you. You have to go out and get it. JavaScript Docker Monitoring
 DNS Routing Zero Downtime Deployment Data Pipeline Latency Optimization Frontend GraphQL To be the best, you must be able to handle the worst. Neural Networks Microservices Database Great things never come from comfort zones. Virtual Machines OAuth API Gateway
 Code Review Happiness is not something ready made. It comes from your own actions. Algorithm Backend Innovation distinguishes between a leader and a follower. Cloud Functions
+Content Delivery Network NLP Event Sourcing Performance Docker Dream big and dare to fail. Event-driven Architecture Cloud The only way to do great work is to love what you do. Containerization Lambda Functions Sharding UX Optimization

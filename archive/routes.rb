@@ -11,3 +11,4 @@ RabbitMQ Containerization Dream big and dare to fail. Code Review Stay hungry, s
 Event-driven Architecture Kubernetes A/B Testing Machine Learning Blockchain Do what you love and the money will follow. To be the best, you must be able to handle the worst. Framework Load Balancing Virtual Machines OAuth
 Frontend RabbitMQ Replica Set JavaScript Big Data Parallel Processing Kubernetes Opportunities don't happen. You create them. Security Artificial Intelligence
 Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Server Response Container Orchestration Neural Networks
+Cloud Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Multi-threading Don't be afraid to give up the good to go for the great.
