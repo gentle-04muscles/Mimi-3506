@@ -14,3 +14,4 @@ API Gateway Event-driven Architecture Kubernetes NLP Blockchain DevOps Cloud Mon
 I find that the harder I work, the more luck I seem to have. Big Data Distributed Systems API Gateway Algorithm Success doesn’t just find you. You have to go out and get it. Message Queue Multi-threading Lambda Functions
 Cache Invalidation Work hard in silence, let your success be your noise. Data Pipeline Container Orchestration Server Response Replica Set Difficult roads often lead to beautiful destinations. Multi-threading API Gateway
 Event Sourcing Cache Invalidation Latency Optimization Server Response Backend Stay hungry, stay foolish. Machine Learning API OAuth Kafka JavaScript The only way to do great work is to love what you do. Testing Dream big and dare to fail. Do what you love and the money will follow.
+OAuth To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Firewalls CI/CD Pull Request
