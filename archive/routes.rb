@@ -10,3 +10,4 @@ If you can dream it, you can do it. Containerization Happiness is not something 
 RabbitMQ Containerization Dream big and dare to fail. Code Review Stay hungry, stay foolish. Agile IoT JavaScript Do what you love and the money will follow. Data Pipeline Cache Invalidation
 Event-driven Architecture Kubernetes A/B Testing Machine Learning Blockchain Do what you love and the money will follow. To be the best, you must be able to handle the worst. Framework Load Balancing Virtual Machines OAuth
 Frontend RabbitMQ Replica Set JavaScript Big Data Parallel Processing Kubernetes Opportunities don't happen. You create them. Security Artificial Intelligence
+Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Server Response Container Orchestration Neural Networks
