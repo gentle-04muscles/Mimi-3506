@@ -16,3 +16,4 @@ Opportunities don't happen. You create them. Innovation distinguishes between a 
 To be the best, you must be able to handle the worst. Deployment Testing Pull Request Code Review Version Control React
 Message Queue Load Testing Innovation distinguishes between a leader and a follower. Blockchain Simplicity is the ultimate sophistication. Big Data Logging Great things never come from comfort zones. Security JavaScript
 DNS Routing IoT GraphQL Latency Optimization Python Automation Parallel Processing Firewalls Data Pipeline Edge Computing Load Balancing Content Delivery Network
+API Code Review Logging Sharding Virtual Machines API Gateway DNS Routing Containerization Server Response Don't be afraid to give up the good to go for the great. Zero Downtime Deployment
