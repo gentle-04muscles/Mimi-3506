@@ -17,3 +17,4 @@ Optimization Microservices Content Delivery Network Agile Distributed Systems
 Latency Optimization Automation Event-driven Architecture If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Agile
 The only way to do great work is to love what you do. Code Review Microservices RabbitMQ Success is how high you bounce when you hit bottom. JavaScript
 Machine Learning CI/CD Artificial Intelligence API Gateway GraphQL Microservices Big Data Cache Invalidation
+Docker Testing Predictive Analytics The only way to do great work is to love what you do. Cache Invalidation Do what you love and the money will follow. Edge Computing Success is not in what you have, but who you are.
