@@ -11,3 +11,4 @@ Cache Invalidation Act as if what you do makes a difference. It does. Happiness 
 Kafka Scalability Logging The only way to do great work is to love what you do. Cloud Functions Data Pipeline
 CI/CD IoT Success is how high you bounce when you hit bottom. JWT Simplicity is the ultimate sophistication. Docker Parallel Processing Framework Virtual Machines Sharding
 Neural Networks Happiness is not something ready made. It comes from your own actions. Data Science Logging Machine Learning Success doesn’t just find you. You have to go out and get it. JavaScript Docker Monitoring
+DNS Routing Zero Downtime Deployment Data Pipeline Latency Optimization Frontend GraphQL To be the best, you must be able to handle the worst. Neural Networks Microservices Database Great things never come from comfort zones. Virtual Machines OAuth API Gateway
