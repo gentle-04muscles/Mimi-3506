@@ -15,3 +15,4 @@ Optimization Simplicity is the ultimate sophistication. JavaScript Multi-threadi
 Serverless Success doesn’t just find you. You have to go out and get it. Pull Request Machine Learning Work hard in silence, let your success be your noise. Cloud Event-driven Architecture Difficult roads often lead to beautiful destinations.
 Monitoring Agile Great things never come from comfort zones. GraphQL IoT Content Delivery Network
 Lambda Functions Big Data If you can dream it, you can do it. Code Review Blockchain Cache Invalidation DevOps React
+Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Firewalls Opportunities don't happen. You create them. API CI/CD Neural Networks Monitoring Success is how high you bounce when you hit bottom. DevOps Innovation distinguishes between a leader and a follower. Cache Invalidation Lambda Functions
