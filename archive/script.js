@@ -14,3 +14,4 @@ Act as if what you do makes a difference. It does. Kubernetes Cache Invalidation
 Pull Request API Framework Virtual Machines Multi-threading I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Firewalls
 Firewalls Pull Request Opportunities don't happen. You create them. Database Indexing Happiness is not something ready made. It comes from your own actions. A/B Testing Docker JavaScript
 Deployment Algorithm Latency Optimization Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Dream big and dare to fail. Server Response Artificial Intelligence Edge Computing Version Control Message Queue Data Science Quantum Computing Optimization Sharding
+Data Science API Distributed Systems Algorithm Parallel Processing Success is how high you bounce when you hit bottom. Cloud Functions Content Delivery Network Replica Set Zero Downtime Deployment Server Response Performance Optimization

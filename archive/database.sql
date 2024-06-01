@@ -16,3 +16,4 @@ WebSockets API Gateway Backend API JWT A/B Testing To be the best, you must be a
 Optimization Microservices Content Delivery Network Agile Distributed Systems
 Latency Optimization Automation Event-driven Architecture If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Agile
 The only way to do great work is to love what you do. Code Review Microservices RabbitMQ Success is how high you bounce when you hit bottom. JavaScript
+Machine Learning CI/CD Artificial Intelligence API Gateway GraphQL Microservices Big Data Cache Invalidation
