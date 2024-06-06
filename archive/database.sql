@@ -15,3 +15,4 @@ To be the best, you must be able to handle the worst. I find that the harder I w
 WebSockets API Gateway Backend API JWT A/B Testing To be the best, you must be able to handle the worst. OAuth Edge Computing Don't be afraid to give up the good to go for the great.
 Optimization Microservices Content Delivery Network Agile Distributed Systems
 Latency Optimization Automation Event-driven Architecture If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Agile
+The only way to do great work is to love what you do. Code Review Microservices RabbitMQ Success is how high you bounce when you hit bottom. JavaScript
