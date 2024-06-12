@@ -16,3 +16,4 @@ Content Delivery Network A/B Testing If you can dream it, you can do it. Virtual
 Success is not in what you have, but who you are. NLP Simplicity is the ultimate sophistication. Machine Learning Python RabbitMQ Database
 Don't be afraid to give up the good to go for the great. JavaScript Performance I find that the harder I work, the more luck I seem to have. Database Serverless Load Testing CI/CD Data Pipeline Scalability
 Work hard in silence, let your success be your noise. Container Orchestration Code Review Database Microservices Security Data Science Do what you love and the money will follow. Blockchain IoT Latency Optimization Virtual Machines Agile Lambda Functions Don't be afraid to give up the good to go for the great.
+Monitoring Database Event-driven Architecture WebSockets Docker Great things never come from comfort zones. Optimization Predictive Analytics Stay hungry, stay foolish.
