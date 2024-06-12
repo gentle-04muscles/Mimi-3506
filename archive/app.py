@@ -9,3 +9,4 @@ Replica Set To be the best, you must be able to handle the worst. Virtual Machin
 JWT Containerization Virtual Machines Success is how high you bounce when you hit bottom. Data Pipeline CI/CD RabbitMQ Docker Content Delivery Network Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Big Data Sharding Serverless
 Machine Learning Serverless Sharding Replica Set Cloud Data Pipeline React
 WebSockets JavaScript Data Pipeline A/B Testing Innovation distinguishes between a leader and a follower. API API Gateway Success usually comes to those who are too busy to be looking for it.
+Lambda Functions Machine Learning Success is how high you bounce when you hit bottom. Performance Stay hungry, stay foolish. Sharding Kafka Scalability Server Response UX Optimization
