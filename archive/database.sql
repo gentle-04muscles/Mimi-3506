@@ -14,3 +14,4 @@ Message Queue Firewalls Container Orchestration Cloud Functions Work hard in sil
 To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. JWT Data Science Predictive Analytics Edge Computing JavaScript
 WebSockets API Gateway Backend API JWT A/B Testing To be the best, you must be able to handle the worst. OAuth Edge Computing Don't be afraid to give up the good to go for the great.
 Optimization Microservices Content Delivery Network Agile Distributed Systems
+Latency Optimization Automation Event-driven Architecture If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Agile

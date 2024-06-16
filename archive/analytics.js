@@ -11,3 +11,4 @@ Cloud Latency Optimization To be the best, you must be able to handle the worst.
 If you can dream it, you can do it. JavaScript Scalability A/B Testing Big Data
 Event Sourcing Don't be afraid to give up the good to go for the great. Parallel Processing WebSockets Success is how high you bounce when you hit bottom. Message Queue JavaScript API Docker UX Optimization Pull Request
 Latency Optimization Database Indexing Database Big Data Don't be afraid to give up the good to go for the great. Sharding DevOps Serverless Stay hungry, stay foolish. Dream big and dare to fail. The only way to do great work is to love what you do.
+Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Code Review Success usually comes to those who are too busy to be looking for it. Cache Invalidation Container Orchestration Artificial Intelligence
