@@ -20,3 +20,4 @@ RabbitMQ Blockchain Testing Load Balancing API Gateway OAuth DNS Routing UX Opti
 Opportunities don't happen. You create them. JavaScript Blockchain Predictive Analytics Kubernetes Kafka Optimization Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Database Indexing Version Control Serverless Deployment Algorithm Lambda Functions
 Blockchain Dream big and dare to fail. Pull Request Event-driven Architecture Deployment
 Zero Downtime Deployment Cache Invalidation Server Response Algorithm Latency Optimization Docker Cloud
+Big Data OAuth Blockchain If you can dream it, you can do it. Kubernetes
