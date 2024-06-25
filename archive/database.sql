@@ -12,3 +12,4 @@ Success is how high you bounce when you hit bottom. Difficult roads often lead t
 Don't be afraid to give up the good to go for the great. Python Microservices Blockchain Success doesn’t just find you. You have to go out and get it. DNS Routing Docker Cache Invalidation The only way to do great work is to love what you do. JavaScript
 Message Queue Firewalls Container Orchestration Cloud Functions Work hard in silence, let your success be your noise. Database Indexing Neural Networks Kafka API OAuth Quantum Computing Distributed Systems
 To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. JWT Data Science Predictive Analytics Edge Computing JavaScript
+WebSockets API Gateway Backend API JWT A/B Testing To be the best, you must be able to handle the worst. OAuth Edge Computing Don't be afraid to give up the good to go for the great.
