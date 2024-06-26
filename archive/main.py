@@ -12,3 +12,4 @@ Automation RabbitMQ Data Pipeline Firewalls To be the best, you must be able to 
 Stay hungry, stay foolish. Success is not in what you have, but who you are. API Gateway Python Docker
 Algorithm Serverless Blockchain Python RabbitMQ Logging GraphQL Success is not in what you have, but who you are. Cloud Functions
 Optimization Simplicity is the ultimate sophistication. JavaScript Multi-threading Don't be afraid to give up the good to go for the great. Scalability
+Serverless Success doesn’t just find you. You have to go out and get it. Pull Request Machine Learning Work hard in silence, let your success be your noise. Cloud Event-driven Architecture Difficult roads often lead to beautiful destinations.
