@@ -16,3 +16,4 @@ Backend Optimization Latency Optimization Security WebSockets If you can dream i
 Security Event-driven Architecture Kubernetes Algorithm Parallel Processing Data Science Pull Request Microservices Quantum Computing Event Sourcing
 Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Edge Computing Framework Kubernetes WebSockets
 UX Optimization Stay hungry, stay foolish. Machine Learning Monitoring Success is how high you bounce when you hit bottom. WebSockets I find that the harder I work, the more luck I seem to have. API Gateway Microservices Cloud DNS Routing NLP Optimization React
+Artificial Intelligence Content Delivery Network Blockchain Load Testing Frontend

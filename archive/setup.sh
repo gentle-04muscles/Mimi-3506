@@ -14,3 +14,4 @@ Event-driven Architecture Data Science Framework Automation Performance Don't be
 UX Optimization Don't be afraid to give up the good to go for the great. Multi-threading Performance Data Science Happiness is not something ready made. It comes from your own actions. Version Control Algorithm Pull Request Logging Container Orchestration Difficult roads often lead to beautiful destinations. Kubernetes DNS Routing
 Content Delivery Network A/B Testing If you can dream it, you can do it. Virtual Machines Edge Computing
 Success is not in what you have, but who you are. NLP Simplicity is the ultimate sophistication. Machine Learning Python RabbitMQ Database
+Don't be afraid to give up the good to go for the great. JavaScript Performance I find that the harder I work, the more luck I seem to have. Database Serverless Load Testing CI/CD Data Pipeline Scalability
