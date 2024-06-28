@@ -14,3 +14,4 @@ Database Indexing To be the best, you must be able to handle the worst. Data Sci
 Code Review Scalability Pull Request CI/CD Framework I find that the harder I work, the more luck I seem to have. Virtual Machines Latency Optimization DevOps Kubernetes Cloud Functions JWT Backend
 Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Serverless Server Response Sharding A/B Testing Artificial Intelligence Monitoring Database
 To be the best, you must be able to handle the worst. Deployment Testing Pull Request Code Review Version Control React
+Message Queue Load Testing Innovation distinguishes between a leader and a follower. Blockchain Simplicity is the ultimate sophistication. Big Data Logging Great things never come from comfort zones. Security JavaScript
