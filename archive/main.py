@@ -11,3 +11,4 @@ Microservices Docker If you can dream it, you can do it. Great things never come
 Automation RabbitMQ Data Pipeline Firewalls To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Zero Downtime Deployment The only way to do great work is to love what you do. DevOps Replica Set Happiness is not something ready made. It comes from your own actions.
 Stay hungry, stay foolish. Success is not in what you have, but who you are. API Gateway Python Docker
 Algorithm Serverless Blockchain Python RabbitMQ Logging GraphQL Success is not in what you have, but who you are. Cloud Functions
+Optimization Simplicity is the ultimate sophistication. JavaScript Multi-threading Don't be afraid to give up the good to go for the great. Scalability
