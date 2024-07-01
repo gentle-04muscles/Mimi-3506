@@ -13,3 +13,4 @@ Happiness is not something ready made. It comes from your own actions. Virtual M
 Database Indexing To be the best, you must be able to handle the worst. Data Science Big Data Testing Great things never come from comfort zones. Virtual Machines Monitoring
 Code Review Scalability Pull Request CI/CD Framework I find that the harder I work, the more luck I seem to have. Virtual Machines Latency Optimization DevOps Kubernetes Cloud Functions JWT Backend
 Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Serverless Server Response Sharding A/B Testing Artificial Intelligence Monitoring Database
+To be the best, you must be able to handle the worst. Deployment Testing Pull Request Code Review Version Control React
