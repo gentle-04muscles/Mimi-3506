@@ -13,3 +13,4 @@ Database Multi-threading Code Review Quantum Computing Cache Invalidation Opport
 Event-driven Architecture Data Science Framework Automation Performance Don't be afraid to give up the good to go for the great. Multi-threading Scalability Load Testing Opportunities don't happen. You create them. Dream big and dare to fail. Cache Invalidation Data Pipeline Distributed Systems
 UX Optimization Don't be afraid to give up the good to go for the great. Multi-threading Performance Data Science Happiness is not something ready made. It comes from your own actions. Version Control Algorithm Pull Request Logging Container Orchestration Difficult roads often lead to beautiful destinations. Kubernetes DNS Routing
 Content Delivery Network A/B Testing If you can dream it, you can do it. Virtual Machines Edge Computing
+Success is not in what you have, but who you are. NLP Simplicity is the ultimate sophistication. Machine Learning Python RabbitMQ Database

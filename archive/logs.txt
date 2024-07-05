@@ -14,3 +14,4 @@ Message Queue Logging Neural Networks Event-driven Architecture Do what you love
 Kubernetes To be the best, you must be able to handle the worst. Blockchain JWT Firewalls OAuth Kafka Python
 Backend Optimization Latency Optimization Security WebSockets If you can dream it, you can do it.
 Security Event-driven Architecture Kubernetes Algorithm Parallel Processing Data Science Pull Request Microservices Quantum Computing Event Sourcing
+Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Edge Computing Framework Kubernetes WebSockets
