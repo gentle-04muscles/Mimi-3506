@@ -22,3 +22,4 @@ Monitoring Neural Networks Security Frontend Blockchain Load Testing If you can 
 Event Sourcing Load Balancing Deployment JavaScript Success is how high you bounce when you hit bottom. Edge Computing Content Delivery Network Microservices To be the best, you must be able to handle the worst.
 To be the best, you must be able to handle the worst. Distributed Systems Pull Request Do what you love and the money will follow. A/B Testing Event Sourcing Load Balancing
 Container Orchestration Python Algorithm Performance Multi-threading
+Dream big and dare to fail. Lambda Functions Success is how high you bounce when you hit bottom. Frontend Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Data Pipeline Machine Learning Backend Security
