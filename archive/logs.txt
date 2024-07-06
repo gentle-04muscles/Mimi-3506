@@ -13,3 +13,4 @@ Monitoring Firewalls Scalability Success is not in what you have, but who you ar
 Message Queue Logging Neural Networks Event-driven Architecture Do what you love and the money will follow. Stay hungry, stay foolish. Database OAuth
 Kubernetes To be the best, you must be able to handle the worst. Blockchain JWT Firewalls OAuth Kafka Python
 Backend Optimization Latency Optimization Security WebSockets If you can dream it, you can do it.
+Security Event-driven Architecture Kubernetes Algorithm Parallel Processing Data Science Pull Request Microservices Quantum Computing Event Sourcing

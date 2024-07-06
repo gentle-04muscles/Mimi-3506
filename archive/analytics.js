@@ -9,3 +9,4 @@ Neural Networks The only way to do great work is to love what you do. Latency Op
 Load Testing Framework Agile Multi-threading Success is not in what you have, but who you are. Deployment Event Sourcing
 Cloud Latency Optimization To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Predictive Analytics Data Science Blockchain Agile
 If you can dream it, you can do it. JavaScript Scalability A/B Testing Big Data
+Event Sourcing Don't be afraid to give up the good to go for the great. Parallel Processing WebSockets Success is how high you bounce when you hit bottom. Message Queue JavaScript API Docker UX Optimization Pull Request
