@@ -18,3 +18,4 @@ Difficult roads often lead to beautiful destinations. Scalability If you can dre
 Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Do what you love and the money will follow. API Gateway Latency Optimization The only way to do great work is to love what you do. Artificial Intelligence Dream big and dare to fail. Parallel Processing RabbitMQ Cloud Functions To be the best, you must be able to handle the worst. Cloud Docker JWT
 Kafka API Pull Request Lambda Functions Zero Downtime Deployment Parallel Processing Cache Invalidation
 Framework Event-driven Architecture Success is how high you bounce when you hit bottom. Message Queue NLP Distributed Systems Code Review
+Event Sourcing Blockchain Load Testing JavaScript Frontend
