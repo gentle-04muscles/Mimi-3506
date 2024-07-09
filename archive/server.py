@@ -18,3 +18,4 @@ Database To be the best, you must be able to handle the worst. A/B Testing Agile
 Big Data Cloud Functions Replica Set Latency Optimization Quantum Computing
 RabbitMQ Blockchain Testing Load Balancing API Gateway OAuth DNS Routing UX Optimization If you can dream it, you can do it.
 Opportunities don't happen. You create them. JavaScript Blockchain Predictive Analytics Kubernetes Kafka Optimization Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Database Indexing Version Control Serverless Deployment Algorithm Lambda Functions
+Blockchain Dream big and dare to fail. Pull Request Event-driven Architecture Deployment
