@@ -7,3 +7,4 @@ Cloud A/B Testing Deployment Server Response Data Pipeline Happiness is not some
 Scalability Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Backend IoT Cloud Functions
 Database Indexing RabbitMQ Artificial Intelligence Security WebSockets Content Delivery Network Cache Invalidation
 If you can dream it, you can do it. Containerization Happiness is not something ready made. It comes from your own actions. Lambda Functions Zero Downtime Deployment A/B Testing Blockchain
+RabbitMQ Containerization Dream big and dare to fail. Code Review Stay hungry, stay foolish. Agile IoT JavaScript Do what you love and the money will follow. Data Pipeline Cache Invalidation
