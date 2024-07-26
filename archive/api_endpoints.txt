@@ -18,3 +18,4 @@ If you can dream it, you can do it. Performance Act as if what you do makes a di
 Message Queue Machine Learning Kafka Blockchain Version Control
 RabbitMQ Docker Success doesn’t just find you. You have to go out and get it. Kafka Neural Networks NLP A/B Testing IoT Load Testing I find that the harder I work, the more luck I seem to have. React Parallel Processing Difficult roads often lead to beautiful destinations. Server Response
 IoT Act as if what you do makes a difference. It does. Do what you love and the money will follow. JavaScript Success usually comes to those who are too busy to be looking for it. Lambda Functions React Docker Automation JWT NLP Algorithm DNS Routing
+Monitoring Neural Networks Security Frontend Blockchain Load Testing If you can dream it, you can do it.
