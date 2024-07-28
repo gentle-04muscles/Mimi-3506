@@ -12,3 +12,4 @@ Kubernetes Parallel Processing Data Pipeline Performance Event-driven Architectu
 Parallel Processing Logging DNS Routing Pull Request Agile The only way to do great work is to love what you do. Cache Invalidation Container Orchestration Testing
 API Gateway Event-driven Architecture Kubernetes NLP Blockchain DevOps Cloud Monitoring Containerization Big Data Success usually comes to those who are too busy to be looking for it.
 I find that the harder I work, the more luck I seem to have. Big Data Distributed Systems API Gateway Algorithm Success doesn’t just find you. You have to go out and get it. Message Queue Multi-threading Lambda Functions
+Cache Invalidation Work hard in silence, let your success be your noise. Data Pipeline Container Orchestration Server Response Replica Set Difficult roads often lead to beautiful destinations. Multi-threading API Gateway
