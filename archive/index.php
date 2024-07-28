@@ -8,3 +8,4 @@ Multi-threading Do what you love and the money will follow. Serverless Latency O
 Cloud Functions Microservices Distributed Systems Success is how high you bounce when you hit bottom. Logging Simplicity is the ultimate sophistication. Serverless Work hard in silence, let your success be your noise.
 Blockchain Optimization Algorithm IoT Quantum Computing Distributed Systems Cloud Event-driven Architecture
 Load Testing Zero Downtime Deployment UX Optimization Content Delivery Network Scalability Work hard in silence, let your success be your noise.
+Server Response To be the best, you must be able to handle the worst. Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Cache Invalidation Backend Difficult roads often lead to beautiful destinations. Database Big Data RabbitMQ Serverless Quantum Computing A/B Testing Latency Optimization
