@@ -4,3 +4,4 @@ Logging Deployment Difficult roads often lead to beautiful destinations. Backend
 DevOps OAuth I find that the harder I work, the more luck I seem to have. Latency Optimization Automation Scalability Work hard in silence, let your success be your noise.
 Kafka Lambda Functions Deployment Multi-threading Performance DNS Routing Algorithm
 Python Code Review Frontend Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Pull Request Event-driven Architecture
+Algorithm Message Queue Containerization Lambda Functions Frontend Container Orchestration API Simplicity is the ultimate sophistication. Pull Request DevOps Agile Performance

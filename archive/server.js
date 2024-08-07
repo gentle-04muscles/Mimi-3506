@@ -10,3 +10,4 @@ CI/CD Optimization React Don't be afraid to give up the good to go for the great
 Parallel Processing Version Control OAuth API Gateway Database Indexing If you can dream it, you can do it.
 I find that the harder I work, the more luck I seem to have. JWT Quantum Computing Backend Monitoring Framework Machine Learning Microservices IoT
 Happiness is not something ready made. It comes from your own actions. Virtual Machines Difficult roads often lead to beautiful destinations. Data Pipeline IoT Innovation distinguishes between a leader and a follower. Sharding A/B Testing Load Balancing Opportunities don't happen. You create them. Quantum Computing Simplicity is the ultimate sophistication. Docker
+Database Indexing To be the best, you must be able to handle the worst. Data Science Big Data Testing Great things never come from comfort zones. Virtual Machines Monitoring
