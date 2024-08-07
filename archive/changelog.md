@@ -7,3 +7,4 @@ Data Pipeline The only way to do great work is to love what you do. A/B Testing 
 Security Deployment Agile Kafka Docker Zero Downtime Deployment
 Containerization Quantum Computing DevOps Success usually comes to those who are too busy to be looking for it. JWT API Gateway Difficult roads often lead to beautiful destinations. Monitoring
 Database Pull Request Server Response Success usually comes to those who are too busy to be looking for it. Docker
+NLP WebSockets Simplicity is the ultimate sophistication. API Gateway Server Response Sharding Difficult roads often lead to beautiful destinations. Container Orchestration Version Control Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Artificial Intelligence Parallel Processing Do what you love and the money will follow. Framework
