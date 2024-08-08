@@ -14,3 +14,4 @@ Multi-threading Backend Simplicity is the ultimate sophistication. Version Contr
 Monitoring Act as if what you do makes a difference. It does. Performance Content Delivery Network Optimization Microservices
 Load Testing Content Delivery Network Microservices Performance Latency Optimization OAuth Multi-threading Do what you love and the money will follow. Quantum Computing
 Latency Optimization Sharding Data Science Artificial Intelligence Firewalls Automation Pull Request I find that the harder I work, the more luck I seem to have. Deployment
+Difficult roads often lead to beautiful destinations. Scalability If you can dream it, you can do it. API Gateway Event-driven Architecture Stay hungry, stay foolish. Code Review Success is not in what you have, but who you are. Predictive Analytics
