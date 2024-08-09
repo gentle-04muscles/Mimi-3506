@@ -8,3 +8,4 @@ Cloud Functions Dream big and dare to fail. Don't be afraid to give up the good 
 Neural Networks DNS Routing Cloud Big Data JavaScript Logging Automation Pull Request Blockchain Deployment Cloud Functions
 Database Docker UX Optimization Database Indexing Cloud Functions Agile Monitoring
 Load Balancing Work hard in silence, let your success be your noise. Frontend To be the best, you must be able to handle the worst. Load Testing Opportunities don't happen. You create them. Logging Performance Great things never come from comfort zones.
+Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Event-driven Architecture Cloud Functions Security API Gateway Optimization Success usually comes to those who are too busy to be looking for it. Latency Optimization Kafka GraphQL Load Balancing Deployment
