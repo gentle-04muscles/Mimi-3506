@@ -7,3 +7,4 @@ Big Data Kubernetes Data Science Automation Backend Work hard in silence, let yo
 Happiness is not something ready made. It comes from your own actions. Database Indexing Event Sourcing WebSockets Load Testing Automation Backend Cloud RabbitMQ Artificial Intelligence
 Simplicity is the ultimate sophistication. IoT If you can dream it, you can do it. Firewalls CI/CD DNS Routing I find that the harder I work, the more luck I seem to have. Container Orchestration
 Framework Big Data Do what you love and the money will follow. Performance Work hard in silence, let your success be your noise. Data Science Testing
+Microservices Docker If you can dream it, you can do it. Great things never come from comfort zones. The only way to do great work is to love what you do. Blockchain Container Orchestration Automation Do what you love and the money will follow. Pull Request Database Indexing Sharding Event-driven Architecture Latency Optimization Stay hungry, stay foolish.
