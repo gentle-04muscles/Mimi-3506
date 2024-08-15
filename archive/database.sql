@@ -7,3 +7,4 @@ RabbitMQ Logging Backend Don't be afraid to give up the good to go for the great
 Cloud Functions Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Agile Simplicity is the ultimate sophistication. Automation Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Backend Cloud Version Control
 Neural Networks DNS Routing Cloud Big Data JavaScript Logging Automation Pull Request Blockchain Deployment Cloud Functions
 Database Docker UX Optimization Database Indexing Cloud Functions Agile Monitoring
+Load Balancing Work hard in silence, let your success be your noise. Frontend To be the best, you must be able to handle the worst. Load Testing Opportunities don't happen. You create them. Logging Performance Great things never come from comfort zones.
