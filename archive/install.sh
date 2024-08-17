@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Success is not in what you have, but who you are. Par
 Multi-threading Backend Simplicity is the ultimate sophistication. Version Control Database Indexing Testing Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Lambda Functions Content Delivery Network Edge Computing Data Pipeline
 Monitoring Act as if what you do makes a difference. It does. Performance Content Delivery Network Optimization Microservices
 Load Testing Content Delivery Network Microservices Performance Latency Optimization OAuth Multi-threading Do what you love and the money will follow. Quantum Computing
+Latency Optimization Sharding Data Science Artificial Intelligence Firewalls Automation Pull Request I find that the harder I work, the more luck I seem to have. Deployment
