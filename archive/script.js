@@ -12,3 +12,4 @@ Simplicity is the ultimate sophistication. A/B Testing Server Response Lambda Fu
 Automation Parallel Processing Virtual Machines Data Science Success doesn’t just find you. You have to go out and get it. Quantum Computing Distributed Systems Firewalls
 Act as if what you do makes a difference. It does. Kubernetes Cache Invalidation GraphQL Replica Set Difficult roads often lead to beautiful destinations. Version Control React Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Cloud Functions Stay hungry, stay foolish. Artificial Intelligence Code Review
 Pull Request API Framework Virtual Machines Multi-threading I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Firewalls
+Firewalls Pull Request Opportunities don't happen. You create them. Database Indexing Happiness is not something ready made. It comes from your own actions. A/B Testing Docker JavaScript
