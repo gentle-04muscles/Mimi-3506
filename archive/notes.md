@@ -9,3 +9,4 @@ Don't be afraid to give up the good to go for the great. Blockchain DevOps React
 Code Review Load Testing Microservices Virtual Machines Stay hungry, stay foolish. Edge Computing Act as if what you do makes a difference. It does. Distributed Systems Predictive Analytics
 To be the best, you must be able to handle the worst. Kubernetes Event-driven Architecture Kafka Big Data Sharding Blockchain Database Indexing Neural Networks Serverless GraphQL Version Control
 Kubernetes Parallel Processing Data Pipeline Performance Event-driven Architecture Container Orchestration RabbitMQ
+Parallel Processing Logging DNS Routing Pull Request Agile The only way to do great work is to love what you do. Cache Invalidation Container Orchestration Testing
