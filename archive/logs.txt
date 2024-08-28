@@ -9,3 +9,4 @@ Difficult roads often lead to beautiful destinations. Server Response Security R
 GraphQL Data Science Cloud Functions Artificial Intelligence Containerization A/B Testing IoT Pull Request Kafka API Testing Firewalls Agile Success is not in what you have, but who you are.
 Big Data Neural Networks Deployment Data Science Backend Optimization Latency Optimization Blockchain Containerization Zero Downtime Deployment Microservices Database
 Big Data Dream big and dare to fail. Virtual Machines Load Balancing Data Pipeline Happiness is not something ready made. It comes from your own actions. Automation Simplicity is the ultimate sophistication.
+Monitoring Firewalls Scalability Success is not in what you have, but who you are. API Gateway Predictive Analytics Edge Computing Agile React Data Science Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Performance
