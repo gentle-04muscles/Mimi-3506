@@ -12,3 +12,4 @@ Optimization Container Orchestration Dream big and dare to fail. Performance A/B
 Stay hungry, stay foolish. Success is not in what you have, but who you are. Parallel Processing Big Data Backend Kafka Optimization Deployment
 Multi-threading Backend Simplicity is the ultimate sophistication. Version Control Database Indexing Testing Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Lambda Functions Content Delivery Network Edge Computing Data Pipeline
 Monitoring Act as if what you do makes a difference. It does. Performance Content Delivery Network Optimization Microservices
+Load Testing Content Delivery Network Microservices Performance Latency Optimization OAuth Multi-threading Do what you love and the money will follow. Quantum Computing
