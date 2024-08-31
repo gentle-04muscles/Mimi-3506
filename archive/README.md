@@ -5,3 +5,4 @@ Container Orchestration Load Balancing Zero Downtime Deployment Automation Artif
 Artificial Intelligence CI/CD Virtual Machines Version Control Database Indexing
 Serverless Testing UX Optimization Frontend Great things never come from comfort zones. Act as if what you do makes a difference. It does. Cloud
 Frontend Python Firewalls Replica Set Simplicity is the ultimate sophistication. Microservices
+Kubernetes GraphQL Microservices Blockchain Do what you love and the money will follow. IoT
