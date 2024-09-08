@@ -8,3 +8,4 @@ Innovation distinguishes between a leader and a follower. IoT If you can dream i
 Don't be afraid to give up the good to go for the great. Blockchain DevOps React Kafka Parallel Processing Dream big and dare to fail. Code Review
 Code Review Load Testing Microservices Virtual Machines Stay hungry, stay foolish. Edge Computing Act as if what you do makes a difference. It does. Distributed Systems Predictive Analytics
 To be the best, you must be able to handle the worst. Kubernetes Event-driven Architecture Kafka Big Data Sharding Blockchain Database Indexing Neural Networks Serverless GraphQL Version Control
+Kubernetes Parallel Processing Data Pipeline Performance Event-driven Architecture Container Orchestration RabbitMQ
