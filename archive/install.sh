@@ -11,3 +11,4 @@ OAuth Lambda Functions Automation Success is how high you bounce when you hit bo
 Optimization Container Orchestration Dream big and dare to fail. Performance A/B Testing Multi-threading Kubernetes If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Code Review
 Stay hungry, stay foolish. Success is not in what you have, but who you are. Parallel Processing Big Data Backend Kafka Optimization Deployment
 Multi-threading Backend Simplicity is the ultimate sophistication. Version Control Database Indexing Testing Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Lambda Functions Content Delivery Network Edge Computing Data Pipeline
+Monitoring Act as if what you do makes a difference. It does. Performance Content Delivery Network Optimization Microservices
