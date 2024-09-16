@@ -8,3 +8,4 @@ RabbitMQ Neural Networks UX Optimization The only way to do great work is to lov
 Testing Multi-threading Simplicity is the ultimate sophistication. Data Pipeline Pull Request NLP
 CI/CD Optimization React Don't be afraid to give up the good to go for the great. Blockchain Kubernetes OAuth
 Parallel Processing Version Control OAuth API Gateway Database Indexing If you can dream it, you can do it.
+I find that the harder I work, the more luck I seem to have. JWT Quantum Computing Backend Monitoring Framework Machine Learning Microservices IoT
