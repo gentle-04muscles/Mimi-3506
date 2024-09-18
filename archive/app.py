@@ -7,3 +7,4 @@ Happiness is not something ready made. It comes from your own actions. The only 
 Containerization Machine Learning Edge Computing IoT Performance Innovation distinguishes between a leader and a follower. Microservices Virtual Machines Multi-threading Dream big and dare to fail.
 Replica Set To be the best, you must be able to handle the worst. Virtual Machines If you can dream it, you can do it. Agile CI/CD
 JWT Containerization Virtual Machines Success is how high you bounce when you hit bottom. Data Pipeline CI/CD RabbitMQ Docker Content Delivery Network Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Big Data Sharding Serverless
+Machine Learning Serverless Sharding Replica Set Cloud Data Pipeline React
