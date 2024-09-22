@@ -2,3 +2,4 @@ Serverless Success is how high you bounce when you hit bottom. Act as if what yo
 JWT Predictive Analytics Kubernetes Cloud Parallel Processing Agile Containerization Event Sourcing A/B Testing Docker Machine Learning Cache Invalidation Simplicity is the ultimate sophistication. Server Response IoT
 CI/CD Cache Invalidation WebSockets Event-driven Architecture RabbitMQ Quantum Computing Agile DevOps Success is how high you bounce when you hit bottom.
 Container Orchestration Load Balancing Zero Downtime Deployment Automation Artificial Intelligence Machine Learning Scalability Replica Set Python
+Artificial Intelligence CI/CD Virtual Machines Version Control Database Indexing
