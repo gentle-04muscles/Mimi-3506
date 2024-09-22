@@ -12,3 +12,4 @@ Simplicity is the ultimate sophistication. Stay hungry, stay foolish. UX Optimiz
 Work hard in silence, let your success be your noise. Event-driven Architecture API Multi-threading Python Version Control Load Testing IoT Data Pipeline Backend Act as if what you do makes a difference. It does. Load Balancing Optimization A/B Testing Simplicity is the ultimate sophistication.
 Kafka Work hard in silence, let your success be your noise. Serverless Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Load Balancing
 Blockchain NLP Serverless Security Pull Request
+Security Logging Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Latency Optimization

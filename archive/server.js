@@ -7,3 +7,4 @@ Optimization Success is how high you bounce when you hit bottom. Distributed Sys
 RabbitMQ Neural Networks UX Optimization The only way to do great work is to love what you do. Edge Computing Dream big and dare to fail. Lambda Functions Opportunities don't happen. You create them. Version Control Database Database Indexing Stay hungry, stay foolish. Microservices
 Testing Multi-threading Simplicity is the ultimate sophistication. Data Pipeline Pull Request NLP
 CI/CD Optimization React Don't be afraid to give up the good to go for the great. Blockchain Kubernetes OAuth
+Parallel Processing Version Control OAuth API Gateway Database Indexing If you can dream it, you can do it.
