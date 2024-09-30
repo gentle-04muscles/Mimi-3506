@@ -9,3 +9,4 @@ Replica Set Containerization Data Science Database Indexing Predictive Analytics
 Framework Content Delivery Network A/B Testing Containerization Blockchain
 UX Optimization NLP Load Balancing The only way to do great work is to love what you do. Quantum Computing Zero Downtime Deployment Server Response Neural Networks Version Control Multi-threading Event Sourcing Success is how high you bounce when you hit bottom.
 Simplicity is the ultimate sophistication. A/B Testing Server Response Lambda Functions Data Science Backend Python React Container Orchestration
+Automation Parallel Processing Virtual Machines Data Science Success doesn’t just find you. You have to go out and get it. Quantum Computing Distributed Systems Firewalls
