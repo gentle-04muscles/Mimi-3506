@@ -8,3 +8,4 @@ Dream big and dare to fail. Edge Computing RabbitMQ Containerization NLP Monitor
 Opportunities don't happen. You create them. Cloud Scalability Cache Invalidation Success usually comes to those who are too busy to be looking for it. DevOps React
 Message Queue A/B Testing NLP Event Sourcing Cloud
 OAuth Lambda Functions Automation Success is how high you bounce when you hit bottom. DNS Routing Security Do what you love and the money will follow. Algorithm API Gateway
+Optimization Container Orchestration Dream big and dare to fail. Performance A/B Testing Multi-threading Kubernetes If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Code Review

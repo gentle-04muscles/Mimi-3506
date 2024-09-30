@@ -8,3 +8,4 @@ If you can dream it, you can do it. Success is how high you bounce when you hit 
 Replica Set Containerization Data Science Database Indexing Predictive Analytics Kubernetes Python Event Sourcing Don't be afraid to give up the good to go for the great. Latency Optimization CI/CD Success is how high you bounce when you hit bottom. RabbitMQ WebSockets
 Framework Content Delivery Network A/B Testing Containerization Blockchain
 UX Optimization NLP Load Balancing The only way to do great work is to love what you do. Quantum Computing Zero Downtime Deployment Server Response Neural Networks Version Control Multi-threading Event Sourcing Success is how high you bounce when you hit bottom.
+Simplicity is the ultimate sophistication. A/B Testing Server Response Lambda Functions Data Science Backend Python React Container Orchestration
