@@ -6,3 +6,4 @@ CI/CD Data Science Blockchain GraphQL Machine Learning API Cloud Latency Optimiz
 Pull Request Deployment Backend To be the best, you must be able to handle the worst. Load Balancing Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Framework Container Orchestration I find that the harder I work, the more luck I seem to have. React Firewalls
 If you can dream it, you can do it. Success is how high you bounce when you hit bottom. API Predictive Analytics Docker
 Replica Set Containerization Data Science Database Indexing Predictive Analytics Kubernetes Python Event Sourcing Don't be afraid to give up the good to go for the great. Latency Optimization CI/CD Success is how high you bounce when you hit bottom. RabbitMQ WebSockets
+Framework Content Delivery Network A/B Testing Containerization Blockchain

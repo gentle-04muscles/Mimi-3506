@@ -14,3 +14,4 @@ Act as if what you do makes a difference. It does. Kubernetes Data Science Serve
 Edge Computing DevOps OAuth The only way to do great work is to love what you do. API Gateway
 Artificial Intelligence Cache Invalidation Docker Content Delivery Network Monitoring Containerization WebSockets Act as if what you do makes a difference. It does. Dream big and dare to fail. UX Optimization Version Control
 To be the best, you must be able to handle the worst. Quantum Computing Replica Set Success is how high you bounce when you hit bottom. Event-driven Architecture Cloud Functions
+If you can dream it, you can do it. Performance Act as if what you do makes a difference. It does. Cache Invalidation Kubernetes Success doesn’t just find you. You have to go out and get it. Automation Don't be afraid to give up the good to go for the great.
