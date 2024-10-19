@@ -2,3 +2,4 @@ Serverless Performance JWT Python DNS Routing Cloud Functions Blockchain IoT Agi
 Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Event-driven Architecture Virtual Machines Code Review NLP Serverless Security Simplicity is the ultimate sophistication.
 Logging Deployment Difficult roads often lead to beautiful destinations. Backend Predictive Analytics API Gateway Dream big and dare to fail.
 DevOps OAuth I find that the harder I work, the more luck I seem to have. Latency Optimization Automation Scalability Work hard in silence, let your success be your noise.
+Kafka Lambda Functions Deployment Multi-threading Performance DNS Routing Algorithm
