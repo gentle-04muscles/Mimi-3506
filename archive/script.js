@@ -2,3 +2,4 @@ Automation DevOps Kafka Agile Dream big and dare to fail. Testing Cloud Function
 API Success is how high you bounce when you hit bottom. NLP Testing Latency Optimization Machine Learning Agile Event Sourcing Success is not in what you have, but who you are. Firewalls Parallel Processing
 Pull Request Version Control Testing Algorithm Content Delivery Network WebSockets Predictive Analytics Data Pipeline Artificial Intelligence Kubernetes RabbitMQ
 Performance Pull Request Big Data Containerization Zero Downtime Deployment Machine Learning WebSockets Microservices Load Testing
+CI/CD Data Science Blockchain GraphQL Machine Learning API Cloud Latency Optimization DNS Routing Deployment Success is how high you bounce when you hit bottom. Quantum Computing Happiness is not something ready made. It comes from your own actions. API Gateway I find that the harder I work, the more luck I seem to have.

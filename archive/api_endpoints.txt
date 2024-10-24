@@ -13,3 +13,4 @@ Success doesn’t just find you. You have to go out and get it. Virtual Machines R
 Act as if what you do makes a difference. It does. Kubernetes Data Science Serverless Simplicity is the ultimate sophistication.
 Edge Computing DevOps OAuth The only way to do great work is to love what you do. API Gateway
 Artificial Intelligence Cache Invalidation Docker Content Delivery Network Monitoring Containerization WebSockets Act as if what you do makes a difference. It does. Dream big and dare to fail. UX Optimization Version Control
+To be the best, you must be able to handle the worst. Quantum Computing Replica Set Success is how high you bounce when you hit bottom. Event-driven Architecture Cloud Functions
