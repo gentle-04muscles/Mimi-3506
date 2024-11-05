@@ -10,3 +10,4 @@ Cloud Code Review Kubernetes Content Delivery Network DNS Routing JWT A/B Testin
 Neural Networks Testing Act as if what you do makes a difference. It does. Cloud Functions Zero Downtime Deployment
 Simplicity is the ultimate sophistication. Stay hungry, stay foolish. UX Optimization Content Delivery Network Replica Set Do what you love and the money will follow. Testing React
 Work hard in silence, let your success be your noise. Event-driven Architecture API Multi-threading Python Version Control Load Testing IoT Data Pipeline Backend Act as if what you do makes a difference. It does. Load Balancing Optimization A/B Testing Simplicity is the ultimate sophistication.
+Kafka Work hard in silence, let your success be your noise. Serverless Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Load Balancing
