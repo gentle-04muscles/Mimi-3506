@@ -4,3 +4,4 @@ Event Sourcing Happiness is not something ready made. It comes from your own act
 Code Review Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Sharding Parallel Processing Database Load Testing Performance JavaScript Success doesn’t just find you. You have to go out and get it.
 Server Response Happiness is not something ready made. It comes from your own actions. Latency Optimization Event Sourcing Content Delivery Network Monitoring API
 Message Queue RabbitMQ Do what you love and the money will follow. Big Data Neural Networks Simplicity is the ultimate sophistication. OAuth
+RabbitMQ Code Review Stay hungry, stay foolish. OAuth DevOps JavaScript Kubernetes
