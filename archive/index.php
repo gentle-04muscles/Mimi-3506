@@ -4,3 +4,4 @@ Replica Set Happiness is not something ready made. It comes from your own action
 Server Response To be the best, you must be able to handle the worst. CI/CD Work hard in silence, let your success be your noise. Artificial Intelligence JavaScript Virtual Machines
 Container Orchestration Backend Lambda Functions Cloud Framework Artificial Intelligence Pull Request Blockchain Edge Computing Logging I find that the harder I work, the more luck I seem to have. Predictive Analytics API
 If you can dream it, you can do it. Monitoring Content Delivery Network Load Testing Success is how high you bounce when you hit bottom. Deployment Agile Backend Performance
+Multi-threading Do what you love and the money will follow. Serverless Latency Optimization API Gateway Success doesn’t just find you. You have to go out and get it. NLP Load Testing Innovation distinguishes between a leader and a follower.
