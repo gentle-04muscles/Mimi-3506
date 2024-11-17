@@ -4,3 +4,4 @@ Cache Invalidation Kafka Work hard in silence, let your success be your noise. M
 Testing Parallel Processing Distributed Systems Backend Work hard in silence, let your success be your noise.
 Great things never come from comfort zones. Success is not in what you have, but who you are. DNS Routing Big Data Content Delivery Network Quantum Computing Docker Virtual Machines Difficult roads often lead to beautiful destinations. NLP Testing GraphQL JavaScript
 Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Quantum Computing RabbitMQ Firewalls Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Database
+Containerization Machine Learning Edge Computing IoT Performance Innovation distinguishes between a leader and a follower. Microservices Virtual Machines Multi-threading Dream big and dare to fail.

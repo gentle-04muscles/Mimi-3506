@@ -11,3 +11,4 @@ Python Monitoring The only way to do great work is to love what you do. Microser
 Content Delivery Network Pull Request Act as if what you do makes a difference. It does. Load Testing Server Response
 Success doesn’t just find you. You have to go out and get it. Virtual Machines Replica Set Microservices GraphQL Backend Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise.
 Act as if what you do makes a difference. It does. Kubernetes Data Science Serverless Simplicity is the ultimate sophistication.
+Edge Computing DevOps OAuth The only way to do great work is to love what you do. API Gateway
