@@ -1,3 +1,4 @@
 Containerization Optimization UX Optimization Version Control React Sharding Dream big and dare to fail. Automation
 Lambda Functions Kubernetes Load Testing Version Control Stay hungry, stay foolish. Frontend Content Delivery Network Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Serverless I find that the harder I work, the more luck I seem to have. Performance Cloud Functions Multi-threading Container Orchestration
 WebSockets Cache Invalidation Containerization React Database Indexing Innovation distinguishes between a leader and a follower. OAuth Simplicity is the ultimate sophistication. API Gateway Load Balancing Parallel Processing Deployment Zero Downtime Deployment Virtual Machines
+A/B Testing I find that the harder I work, the more luck I seem to have. Cloud NLP Database Work hard in silence, let your success be your noise. Big Data Firewalls Blockchain
