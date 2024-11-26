@@ -1,2 +1,3 @@
 Quantum Computing Frontend Testing Predictive Analytics Pull Request Data Pipeline Security Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Backend Dream big and dare to fail. Zero Downtime Deployment Lambda Functions
 Edge Computing JWT Monitoring WebSockets Database Database Indexing Quantum Computing Don't be afraid to give up the good to go for the great. Blockchain To be the best, you must be able to handle the worst.
+Success doesn’t just find you. You have to go out and get it. Microservices Frontend Data Science Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Opportunities don't happen. You create them.
