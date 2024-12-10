@@ -4,3 +4,4 @@ Event-driven Architecture Don't be afraid to give up the good to go for the grea
 Dream big and dare to fail. Python Don't be afraid to give up the good to go for the great. Docker Load Testing If you can dream it, you can do it. Performance Replica Set Database
 Scalability Lambda Functions Predictive Analytics Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Code Review
 Content Delivery Network React Parallel Processing Lambda Functions Great things never come from comfort zones. Data Science Success is how high you bounce when you hit bottom.
+Dream big and dare to fail. Edge Computing RabbitMQ Containerization NLP Monitoring Kafka
