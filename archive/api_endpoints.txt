@@ -8,3 +8,4 @@ Predictive Analytics Serverless Data Science Edge Computing DevOps
 DNS Routing Replica Set Content Delivery Network Scalability Happiness is not something ready made. It comes from your own actions.
 Message Queue Multi-threading Firewalls Event-driven Architecture DevOps Kubernetes Sharding Version Control Container Orchestration Optimization Difficult roads often lead to beautiful destinations.
 Python Monitoring The only way to do great work is to love what you do. Microservices Machine Learning API Gateway WebSockets Kubernetes Database Indexing Sharding Kafka Automation RabbitMQ Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are.
+Content Delivery Network Pull Request Act as if what you do makes a difference. It does. Load Testing Server Response
