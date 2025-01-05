@@ -1,1 +1,2 @@
 Multi-threading Innovation distinguishes between a leader and a follower. Edge Computing Replica Set Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Scalability Opportunities don't happen. You create them. Backend Agile
+Code Review Innovation distinguishes between a leader and a follower. Data Pipeline API DevOps Act as if what you do makes a difference. It does. OAuth Python Success is how high you bounce when you hit bottom. A/B Testing Optimization Difficult roads often lead to beautiful destinations.
