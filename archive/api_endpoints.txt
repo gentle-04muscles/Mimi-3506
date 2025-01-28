@@ -1,3 +1,4 @@
 Success usually comes to those who are too busy to be looking for it. Parallel Processing Zero Downtime Deployment Quantum Computing Dream big and dare to fail. RabbitMQ IoT GraphQL NLP Containerization Automation Version Control Lambda Functions Agile
 API Gateway Success is how high you bounce when you hit bottom. Performance DNS Routing Edge Computing Cloud Functions Microservices Parallel Processing Load Balancing Machine Learning Database Indexing Quantum Computing Simplicity is the ultimate sophistication.
 Event Sourcing The only way to do great work is to love what you do. Neural Networks Kubernetes Message Queue OAuth Zero Downtime Deployment Work hard in silence, let your success be your noise. JWT Pull Request Don't be afraid to give up the good to go for the great. NLP
+Code Review Algorithm The only way to do great work is to love what you do. Testing Docker
